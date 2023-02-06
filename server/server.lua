@@ -21,18 +21,6 @@ AddEventHandler('stevo_moneywash:server:EndOfWask', function (Amount)
 
 end)
 
--- ESX.RegisterServerCallback('checkforkeycard', function(source, cb)
---   local EntranceTicket = exports.ox_inventory:Search(source, 'count', Config.EntranceTicket)
---   if EntranceTicket > 1 then
---       Entrance = true
---       cb(EntranceTicket)
---   else
---     Entrance = false
---       cb(EntranceTicket)
---   end
--- end)
-
-
 
 
 
