@@ -1,0 +1,19 @@
+{
+    "title": "Information",
+
+    "menu_title": "Washing Amount",
+    "menu_desc": "How Much do you want to wash ?",
+
+    "enter_laundry": "Enter LaundryMat",
+    "exit_laundry": "Exit LaundryMat",
+    "start_laundry": "Wash Money",
+
+    "cooldown_ended": "The cooldown ended",
+    "already_washing": "You are already Washing money!",
+    "started_washing": "You have started the Washing process.",
+    "finished_washing": "You have finished Washing your money!",
+    "cooldown_active": "The Washing Cooldown is active",
+    "cannot_exit": "You cannot exit the LaundryMat while Washing!",
+    "not_enough_ticket": "You do not have a wash ticket.",
+    "not_enough_black_money": "You do not have enough black money." 
+}
